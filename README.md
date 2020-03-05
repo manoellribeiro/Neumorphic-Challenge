@@ -1,6 +1,6 @@
 # Neumorphic UI Challenge
 
-![]()
+![](https://github.com/manoellribeiro/Neumorphic-Challenge/blob/master/AppPreview.jpeg)
 
 ## About this Project
 
